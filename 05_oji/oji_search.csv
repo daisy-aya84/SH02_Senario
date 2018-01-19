@@ -1,0 +1,12 @@
+Yunomi,Kyusu,底になにか書いてある,「もよう…あぶれ…？」,なにを意味しているんだろう
+Case,close,鍵がかかっている
+Zabuton,close,座布団だ,中に何か入っているかもしれない
+Karakuri_box,close,からくり箱だ,特定の動作をしないとあかないようになっているようだ
+Karakuri_box_status_5,open,からくり箱が開いた！
+Newspaper,maru,くしゃくしゃに丸まった新聞紙だ
+Newspaper_status_3,Hasami,4枚に切り分けた
+Hasami_status_2,,ハサミを手にいれた
+Match,,マッチを手にいれた
+Key,,鍵を手にいれた
+Dodai,Newspaper,切り分けた新聞紙がぴったりとハマった
+Moyou_paper_status_4,Match,模様を燃やすと矢印が出てきた。,これはどこで使うのだろうか？

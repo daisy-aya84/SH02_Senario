@@ -1,0 +1,36 @@
+,,@bgm_play name=仮
+,,@bg_show name=先生の部屋
+,,（鏡の裏に何かが隠されているかもしれない…！）
+,,@se_play name=tableware_crash1.mp3
+,,…あんまり綺麗に割れないな。
+,,もう一度叩いてみようかな
+,,@se_play name=tableware_crash1.mp3
+,,@still_show name=still_mirror
+,,ガシャン、という音ともに鏡の表面部分がバキバキになる
+,,結構派手に割れてしまうものだな…
+,,割る時にかなり大きな音が鳴り、なんだか脳内でこの音が反芻している
+,,この音と一緒に意識に上がってきたのは
+,,息苦しさだ
+,,「はっ…はっ………っ……」
+,,立っていられなくなり、その場にしゃがみこむ。
+,,@still_hide
+,,@bg_show name=black
+,,@chara_show name=幼女  pos=center
+幼女,dark,「こんなことでおもいだすくらいなのに」
+,,「どうしてわたしをみただけじゃおもいださないの」
+,,@chara_hide name=幼女
+,,え…なにを？
+,,声を出そうと思ったがうまく息を吸えず、話すことができない
+,,@chara_show name=幼女  pos=center
+幼女,dark,「あなたもいなくなるなんてゆるさない」
+,,そう言うと、そこらじゅうに散らばっている鏡の破片を掴んで
+,,わたしにふりおろす
+,,@se_play name=sen_ka_kiru05.mp3
+,,「うっ………！」
+,,そして彼女は、自身の胸のあたりにそれを突き刺した
+,,@se_play name=sen_ka_kiru05.mp3
+,,「みんな　そっちにいるんでしょう」
+,,@chara_hide name=幼女
+,,そう、安らかな表情で呟いた
+,,@bg_hide
+,,@end

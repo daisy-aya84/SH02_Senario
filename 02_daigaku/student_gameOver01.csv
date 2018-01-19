@@ -1,0 +1,25 @@
+,,@bgm_play name=仮
+,,@bg_show name=大学生の部屋
+,,「いたっ」
+,,さぼてんを触り続けていたらトゲが指に引っかかってしまい血が出てきてしまった
+,,@still_show name=still_sabo
+,,ぷっくりと丸く溜まる血をずっと見ていると
+,,…
+,,あれ…
+,,この赤を、わたしは知っている…？
+,,…嫌だ
+,,…嫌だ嫌だ
+,,思い出したくない
+,,@still_hide
+,,@bg_show name=大学生の部屋
+,,@chara_show name=幼女 pos=center
+幼女,sad,「やっと、おもいだしたんだ」
+,,@chara_hide name=幼女
+,,「いやっ…嫌だ違うの違う違う……！！！！」
+,,おもいだしていない
+,,思い出したくない
+,,@chara_show name=幼女 pos=center
+幼女,sad,「いっしょにいたかったのに」
+幼女,dark,「さよなら」
+,,@bg_hide
+,,@end

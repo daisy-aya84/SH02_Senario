@@ -1,0 +1,16 @@
+Kangaroo,close,この部屋にも手作りのぬいぐるみが置いてある。,とても精巧に作られているが…？
+Kangaroo,open,糸が切れた
+Yellow_book,close,鍵が閉まっている
+Yellow_book,open,糸切りバサミが入っている
+Treasure_box,close,鍵が閉まっている
+Treasure_box_status_5,open,なにかが入っている
+Letter,,紙切れを手にいれた
+Cloth_box,,たくさんの布が入っている
+Family,,家族写真だ,「そうか、この部屋はこの子の家族の部屋なのか」,お父さんだと思われる人の顔が黒く塗りつぶされている,こんなこと、誰がやったのだろう…
+Family,ura,なにかがはさまっている
+Two,,これは…私と女の子との写真…?!,こんなところに写真が飾られるくらいに仲が良かったということなのだろうか,すごい可愛い女の子だし、かなり嬉しい
+Ito_hasami_status_3,,糸切りバサミを手にいれた
+Driver,,ドライバーを手にいれた
+Locker_status_2,Driver,ロッカーが開いた！
+Paper,,切れ端だ
+Key_status_4,,鍵を手にいれた

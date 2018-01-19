@@ -1,0 +1,20 @@
+,,@bgm_play name=仮
+,,@bg_show name=先生の部屋
+,,@item_show name=紙切れ_先生
+,,無事に切れ端を見つけることができた。
+,,「また見つけたよ」
+,,@item_hide
+,,@chara_show name=幼女 pos=center
+,,「ありが…とう…」
+,,切れ端を受け取ると、女の子は部屋をまたぐるりと見回した
+,,@chara_hide name=幼女
+,,@item_show name=切れ端_先生
+,,…「こころ」…?
+,,このメッセージの意味は一体なんなのだろうか
+,,@item_hide
+,,@chara_show name=幼女 pos=center
+,,「つぎのへやにいこう」
+,,「そうだね」
+,,@chara_hide name=幼女
+,,@bg_hide
+,,@next
